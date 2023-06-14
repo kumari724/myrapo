@@ -1,0 +1,10 @@
+1.create a github account 
+2.empty repositry
+3.loal system
+  git config--global user.mame"sumankumari"
+  git config--global user.email"sumandigaz@gamil.com"
+
+4.git push -u origin master 
+  --errors 
+  4.1 user name
+  4.2 password 
